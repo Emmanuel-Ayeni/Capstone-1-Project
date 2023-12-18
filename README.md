@@ -7,7 +7,9 @@ Brief Description: The HR Employee Attrition Application is designed to solve a 
 
 ## Project Overview
 Goals: Determine an employee at a higher risk of leaving the company.
-Data Sources: The source is from Kaggle: https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition 
+
+## Data Source
+Data Source: The source is from Kaggle: https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition 
 
 ## Objectives: 
 * The task focus is to build an HR Employee Attrition Application which includes the best predictive model.
@@ -17,11 +19,11 @@ Data Sources: The source is from Kaggle: https://www.kaggle.com/datasets/whenama
 ## Environment Setup 
 
 * <b> Unix: </b> WSL Ubuntu system
-* H
-I've included instructions for reproducing your work.
+* I've included instructions for reproducing your work.
 
-Highlight key features, technologies, and tools used.
-Project Structure:
+## Highlight key features, technologies, and tools used.
+
+## Project Structure:
 
 For a project, your repository/folder should contain the following:
 **************************************************************************************************************************
