@@ -31,7 +31,7 @@ Data Source: The source is from Kaggle: https://www.kaggle.com/datasets/whenaman
 ## Script train.py
 * Training the final model
 * Saving it to a file (e.g. pickle) 
-## Script predict.py (suggested name)
+## Script attrition_serving.py
 * Loading the model
 * Serving it via a web service (with Flask)
 ## Files with dependencies
