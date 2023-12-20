@@ -19,35 +19,23 @@ Data Source: The source is from Kaggle: https://www.kaggle.com/datasets/whenaman
 ## Environment Setup 
 
 * <b> Unix: </b> WSL Ubuntu system
-* I've included instructions for reproducing your work.
-
+* <b> Pipenv: </b> 
+* <b> Docker: </b>
+* <b> AWS: </b>
 ## Highlight key features, technologies, and tools used.
 
-## Project Structure:
-
-For a project, your repository/folder should contain the following:
-**************************************************************************************************************************
-## README.md with
-* Description of the problem
-* Instructions on how to run the project
-## Data
-* You should either commit the dataset you used or have clear instructions on how to download the dataset
-## Notebook (suggested name - notebook.ipynb) with
+## Notebook (attrition-Logistic_v2.ipynb) with
 * Data preparation and data cleaning
 * EDA, feature importance analysis
 * Model selection process and parameter tuning
-## Script train.py (suggested name)
+## Script train.py
 * Training the final model
-* Saving it to a file (e.g. pickle) or saving it with specialized software (BentoML)
+* Saving it to a file (e.g. pickle) 
 ## Script predict.py (suggested name)
 * Loading the model
-* Serving it via a web service (with Flask or specialized software - BentoML, KServe, etc)
+* Serving it via a web service (with Flask)
 ## Files with dependencies
 * Pipenv and Pipenv.lock if you use Pipenv
-* bentofile.yaml if you use BentoML
-* or equivalents: conda environment file, requirements.txt or pyproject.toml
 # Dockerfile for running the service
-# Deployment
-* URL to the service you deployed or
-* Video or image of how you interact with the deployed service
+
 
