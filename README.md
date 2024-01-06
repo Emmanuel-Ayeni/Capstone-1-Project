@@ -1,4 +1,4 @@
-# CapstoneProject-1
+# Capstone-1-Project
 
 # HR-Attrition-ML-Project
 Project Title: Capstone 1 Project: A Supervised Machine Learning Project
